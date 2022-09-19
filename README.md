@@ -17,7 +17,7 @@ I'm 20 years old Full Stack Web Developer From India.<img src="https://media.gip
 <p align="left">
 <a href="https://www.linkedin.com/in/sampriti-mukherjee-6531a120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampriti27" height="30" width="40" /></a>
 <a href="https://instagram.com/_.sampriti._27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampriti27" height="30" width="40" /></a>
-<a href="https://leetcode.com/samprit275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sampriti27" height="30" width="40" /></a>
+<a href="https://leetcode.com/sampriti275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sampriti27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sampriti275/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sampriti27" height="30" width="40" /></a>
   
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sampriti27.sampriti27" alt="Vistor Badge"></a>
