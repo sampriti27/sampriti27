@@ -15,12 +15,12 @@ I'm 21 years old Full-Stack Developer From India.<img src="https://media.giphy.c
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sampriti-mukherjee-6531a120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampriti27" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sampriti._27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampriti27" height="30" width="40" /></a>
-<a href="https://leetcode.com/sampriti275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sampriti27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sampriti275/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sampriti27" height="30" width="40" /></a>
-  
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sampriti27.sampriti27" alt="Vistor Badge"></a>
+<a href="https://www.linkedin.com/in/sampriti-mukherjee-6531a120b/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sampriti27" /></a>
+<a href="https://www.instagram.com/_.sampriti._27/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_.sampriti._27" /></a>
+<a href="https://leetcode.com/sampriti275/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sampriti275" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sampriti275/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sampriti275" height="30" widht="40" /></a>
+  
+
 </p>
 
 <br />
